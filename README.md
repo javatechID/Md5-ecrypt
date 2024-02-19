@@ -2,6 +2,8 @@
 
 Alat web sederhana ini memungkinkan Anda untuk mengenkripsi dan mendekripsi pesan menggunakan algoritma hash MD5.
 
+![MD5 Encryption and Decryption](https://i.ibb.co/3hxFpKS/md5.png)
+
 ## Fitur
 
 - **Enkripsi:** Masukkan pesan Anda, dan alat ini akan menghasilkan hash MD5-nya.
